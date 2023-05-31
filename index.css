@@ -1,0 +1,214 @@
+#imgEcci{
+    width: 300px;
+    height: auto;
+}
+
+#materia{
+    font-size: 20;
+    margin: 0 auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#grupo7cn{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #566F98;
+    margin-right: 20px;
+}
+
+#lineaEncabezado{
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+#encabezado{
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+#project{
+    font-size: 50px;
+    color: #566F98;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    display: flex;
+    margin: 150px;
+}
+
+.left-section{
+    width: 50%;
+    margin-right: 50px;
+}
+
+.right-section{
+    width: 50%;
+    margin-left: 50px;
+}
+
+#galga{
+    width: 120px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.stripe{
+    background-color: #566F98;
+    height: 1600px;
+    display: flex;
+    color:white;
+}
+
+.left-section2{
+    width: 50%;
+    margin-right: 50px;
+    margin-left: 150px;
+}
+
+.right-section2{
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 150px;
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    font-size: 17px;
+}
+
+h4{
+    color: #566F98;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+#simulacion{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 250px;
+}
+
+#Integrantes{
+    color: #566F98;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;;
+    margin-left: 25px;
+}
+
+#grupo{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#video{
+    height: 500px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#simulacion1{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#simulacion2{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#simulacion3{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#simulacion4{
+    width: auto;
+    height: 460px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#simulacion5{
+    width: auto;
+    height: 200px;
+    margin-left: 60px;
+}
+
+#simulacion6{
+    width: auto;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#simulacion7{
+    width: auto;
+    height: 460px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#simulacion8{
+    width: auto;
+    height: 200px;
+}
+
+.right-section2{
+    justify-content: center;
+}
+
+.left-section2{
+    justify-content: center;
+}
+
+#calculos{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #566F98;
+}
+
+#sensores{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #566F98;
+}
+
+#calculos1{
+    height: 1000px;
+    width: auto;
+}
+
+#calculos2{
+    height: 400px;
+    width: auto;
+    margin-left: 180px;
+}
+
+#conclusiones{
+    height: 500px;
+    width: auto;
+    margin-left: 180px;
+}
